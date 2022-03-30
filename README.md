@@ -41,6 +41,7 @@ Below are some examples that my mappings fix.
 | Gintama. (2018)                       | Gintama.                               |
 
 ### Misc
-NFSW/+18 warning - I don't have SFW example, so this one will have to do for now.
 
-[Saezuru Tori wa Habatakanai](https://anidb.net/anime/14889) on AniDB is one entry with 2 episodes, one for each movie. Anilist has both movies listed separately. Since this mapping set assumes you'll be using AniDB structure, episode 1 from Saezuru Tori wa Habatakanai is mapped to [Saezuru Tori wa Habatakanai: The clouds gather](https://anilist.co/anime/109171/Saezuru-Tori-wa-Habatakanai-The-clouds-gather/), episode 2 is mapped to [Saezuru Tori wa Habatakanai: The storm breaks](https://anilist.co/anime/115566/Saezuru-Tori-wa-Habatakanai-The-storm-breaks/).
+AniDB has "Gekijouban Kyoukai no Kanata: I'll Be Here"
+Anilist has 2 separate entries Kyoukai no Kanata: "I'LL BE HERE - Mirai-hen" and "Kyoukai no Kanata: I'LL BE HERE - Kako-hen".
+AniDB folder/naming convention will put both movies as one item, so episode 1 and 2 are mapped to individual Anilist ids.
