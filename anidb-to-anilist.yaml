@@ -246,7 +246,10 @@ entries:
         anilist-id: 97889
   - title: "Saezuru Tori wa Habatakanai"
     synonyms:
-      - "Saezuru Tori wa Habatakanai: The storm breaks"
+      - "Saezuru Tori wa Habatakanai: The clouds gather"
     seasons:
-      - season: 1
-        anilist-id: 115566
+     - season: 1
+       anilist-id: 109171
+     - season: 1
+       anilist-id: 115566
+       start: 2
