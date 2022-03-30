@@ -23,12 +23,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21190
-  - title: "Sono Bisque Doll wa Koi o Suru"
-    synonyms:
-      - "Sono Bisque Doll wa Koi wo Suru"
-    seasons:
-      - season: 1
-        anilist-id: 132405
+#  - title: "Sono Bisque Doll wa Koi o Suru"
+#    synonyms:
+#      - "Sono Bisque Doll wa Koi wo Suru"
+#    seasons:
+#      - season: 1
+#        anilist-id: 132405
   - title: "SK8"
     synonyms:
       - "SK∞ "
