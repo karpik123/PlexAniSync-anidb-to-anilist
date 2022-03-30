@@ -42,6 +42,8 @@ Below are some examples that my mappings fix.
 
 ### Misc
 
-AniDB has "Gekijouban Kyoukai no Kanata: I'll Be Here"
+AniDB has "Gekijouban Kyoukai no Kanata: I'll Be Here".
+
 Anilist has 2 separate entries Kyoukai no Kanata: "I'LL BE HERE - Mirai-hen" and "Kyoukai no Kanata: I'LL BE HERE - Kako-hen".
+
 AniDB folder/naming convention will put both movies as one item, so episode 1 and 2 are mapped to individual Anilist ids.
