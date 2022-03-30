@@ -1,10 +1,10 @@
 entries:
-#  - title: "Akatsuki no Yona (2015)"
-#    synonyms:
-#      - "Akatsuki no Yona OVA"
-#    seasons:
-#      - season: 1
-#        anilist-id: 21138
+  - title: "Akatsuki no Yona (2015)"
+    synonyms:
+      - "Akatsuki no Yona OVA"
+    seasons:
+      - season: 1
+        anilist-id: 21138
   - title: "Yakusoku no Neverland (2021)"
     synonyms:
       - "Yakusoku no Neverland"
@@ -23,12 +23,12 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21190
-#  - title: "Sono Bisque Doll wa Koi o Suru"
-#    synonyms:
-#      - "Sono Bisque Doll wa Koi wo Suru"
-#    seasons:
-#      - season: 1
-#        anilist-id: 132405
+  - title: "Sono Bisque Doll wa Koi o Suru"
+    synonyms:
+      - "Sono Bisque Doll wa Koi wo Suru"
+    seasons:
+      - season: 1
+        anilist-id: 132405
   - title: "SK8"
     synonyms:
       - "SK∞ "
@@ -184,12 +184,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 21676
-  - title: "Dororo (2019)"
-    synonyms:
-      - "Dororo"
-    seasons:
-      - season: 1
-        anilist-id: 101347
   - title: "Boku no Hero Academia (2022)"
     synonyms:
       - "Boku no Hero Academia 6"
