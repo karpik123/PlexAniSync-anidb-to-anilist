@@ -1,4 +1,4 @@
-# PlexAniSync-anidb-to-anilist
+# PlexAniSync - anidb-to-anilist for x-jat anime titles
 
 This is a list of my custom mappings for [PlexAniSync](https://github.com/RickDB/PlexAniSync). This list will be helpful for you if you meet all of the following criteria:
 - your Plex is configured to use HAMA + ASS
