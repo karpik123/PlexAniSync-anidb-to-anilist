@@ -9,7 +9,7 @@ If you use PlexAniSync 1.3.17 or higher, you can use this list as remote custom 
 
 ```
 remote-urls:
-  - https://raw.githubusercontent.com/karpik123/PlexAniSync-anidb-to-anilist/main/anidb-to-anilist.yaml
+  - https://raw.githubusercontent.com/karpik123/PlexAniSync-anidb-to-anilist/main/anidb-to-anilist-x-jat.yaml
 ```
 
 I'd gladly accept help for historical anime titles. I'll do my best to keep file up to date from Spring 2022 season onwards.
