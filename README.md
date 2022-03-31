@@ -5,8 +5,6 @@ This is a list of my custom mappings for [PlexAniSync](https://github.com/RickDB
 - your Plex has library language priority set as `x-jat, en`
 - you use AniDB naming conventions for your folders
 
-Those mappings will not be useful if you use TVDB naming or folder structure, as none of the mappings contain Season 2.
-
 If you use PlexAniSync 1.3.17 or higher, you can use this list as remote custom mapping. Add below fragment to your custom_mappings.yaml:
 
 ```
