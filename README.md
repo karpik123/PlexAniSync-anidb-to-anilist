@@ -2,7 +2,7 @@
 
 This is a list of my custom mappings for [PlexAniSync](https://github.com/RickDB/PlexAniSync). This list will be helpful for you if you meet all of the following criteria:
 - your Plex is configured to use HAMA + ASS
-- your Plex has language priority set as `x-jat, en`
+- your Plex has library language priority set as `x-jat, en`
 - you use AniDB naming conventions for your folders
 
 Those mappings will not be useful if you use TVDB naming or folder structure, as none of the mappings contain Season 2.
@@ -14,7 +14,7 @@ remote-urls:
   - https://raw.githubusercontent.com/karpik123/PlexAniSync-anidb-to-anilist/main/anidb-to-anilist.yaml
 ```
 
-I'd gladly accept help for historical anime titles. I'll do my best to keep file up to date from Sprint 2022 season onwards.
+I'd gladly accept help for historical anime titles. I'll do my best to keep file up to date from Spring 2022 season onwards.
 
 Below are some examples that my mappings fix.
 
@@ -42,8 +42,8 @@ Below are some examples that my mappings fix.
 
 ### Misc
 
-AniDB has "Gekijouban Kyoukai no Kanata: I'll Be Here".
+AniDB has "Gekijouban Kyoukai no Kanata: I'll Be Here", it contains both movies as two episodes.
 
 Anilist has 2 separate entries Kyoukai no Kanata: "I'LL BE HERE - Mirai-hen" and "Kyoukai no Kanata: I'LL BE HERE - Kako-hen".
 
-AniDB folder/naming convention will put both movies as one item, so episode 1 and 2 are mapped to individual Anilist ids.
+AniDB folder/naming convention will put both movies as one item, but my mapping file links episode 1 and 2 to individual Anilist ids.
