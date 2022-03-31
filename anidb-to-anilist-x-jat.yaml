@@ -1,131 +1,156 @@
+# remote-urls:
+#   - https://raw.githubusercontent.com/karpik123/PlexAniSync-anidb-to-anilist/main/anidb-to-anilist.yaml
+
 # Mappings for my historical/old Plex library entries START
 entries:
+
   - title: "Akatsuki no Yona (2015)"
     synonyms:
       - "Akatsuki no Yona OVA"
     seasons:
       - season: 1
         anilist-id: 21138
+
   - title: "Yakusoku no Neverland (2021)"
     synonyms:
       - "Yakusoku no Neverland 2"
     seasons:
       - season: 1
         anilist-id: 101759
+
   - title: "Vampire Miyu (1997)"
     synonyms:
       - "Vampire Miyu (TV)"
     seasons:
       - season: 1
         anilist-id: 690
+
   - title: "Subete ga F ni Naru"
     synonyms:
       - "Subete ga F ni Naru: THE PERFECT INSIDER"
     seasons:
       - season: 1
         anilist-id: 21190
+
   - title: "Sono Bisque Doll wa Koi o Suru"
     synonyms:
       - "Sono Bisque Doll wa Koi wo Suru"
     seasons:
       - season: 1
         anilist-id: 132405
+
   - title: "SK8"
     synonyms:
       - "SK∞ "
     seasons:
       - season: 1
         anilist-id: 124153
+
   - title: "Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru"
     synonyms:
       - "Shinchou Yuusha: Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru"
     seasons:
       - season: 1
         anilist-id: 105156
+
   - title: "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai"
     synonyms:
       - "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
     seasons:
       - season: 1
         anilist-id: 104157
+
   - title: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai"
     synonyms:
       - "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
     seasons:
       - season: 1
         anilist-id: 101291
+
   - title: "Saiki Kusuo no Sainan (2016)"
     synonyms:
       - "Saiki Kusuo no Ψ-nan"
     seasons:
       - season: 1
         anilist-id: 21804
+
   - title: "Reply Hamatora"
     synonyms:
       - "Re:_HAMATORA"
     seasons:
       - season: 1
         anilist-id: 20711
+
   - title: "Nakitai Watashi wa Neko o Kaburu"
     synonyms:
       - "Nakitai Watashi wa Neko wo Kaburu"
     seasons:
       - season: 1
         anilist-id: 114963
+
   - title: "Mushoku Tensei: Isekai Ittara Honki Dasu (2021)"
     synonyms:
       - "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
     seasons:
       - season: 1
         anilist-id: 127720
+
   - title: "Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha"
     synonyms:
       - "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha"
     seasons:
       - season: 1
         anilist-id: 100353
+
   - title: "Kono Subarashii Sekai ni Shukufuku o!"
     synonyms:
       - "Kono Subarashii Sekai ni Shukufuku wo!"
     seasons:
       - season: 1
         anilist-id: 21202
+
   - title: "Kono Subarashii Sekai ni Shukufuku o! 2"
     synonyms:
       - "Kono Subarashii Sekai ni Shukufuku wo! 2"
     seasons:
       - season: 1
         anilist-id: 21699
+
   - title: "Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!"
     synonyms:
       - "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shufuku wo!"
     seasons:
       - season: 1
         anilist-id: 21574
+
   - title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen"
     synonyms:
       - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
     seasons:
       - season: 1
         anilist-id: 108268
+
   - title: "Hige o Soru. Soshite Joshikousei o Hirou."
     synonyms:
       - "Hige wo Soru. Soshite Joshikousei wo Hirou."
     seasons:
       - season: 1
         anilist-id: 114232
+
   - title: "Gekijouban xxxHOLiC: Manatsu no Yo no Yume"
     synonyms:
       - "xxxHOLiC: Manatsu no Yoru no Yume"
     seasons:
       - season: 1
         anilist-id: 793
+
   - title: "Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo"
     synonyms:
       - "Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo"
     seasons:
       - season: 1
         anilist-id: 21684
+
   - title: "Gekijouban Kyoukai no Kanata: I'll Be Here"
     synonyms:
       - "Kyoukai no Kanata: I'LL BE HERE - Mirai-hen"
@@ -137,114 +162,133 @@ entries:
       - season: 1
         anilist-id: 20963
         start: 2
+
   - title: "Gekijouban Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Orion no Ya"
     synonyms:
       - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya"
     seasons:
       - season: 1
         anilist-id: 101166
+
   - title: "Gekijouban Blood-C: The Last Dark"
     synonyms:
       - "BLOOD-C: The Last Dark"
     seasons:
       - season: 1
         anilist-id: 10681
+
   - title: "Fune o Amu"
     synonyms:
       - "Fune wo Amu"
     seasons:
       - season: 1
         anilist-id: 21703
+
   - title: "Fate/Zero (2012)"
     synonyms:
       - "Fate/Zero 2nd Season"
     seasons:
       - season: 1
         anilist-id: 11741
+
   - title: "Eizouken ni wa Te o Dasuna!"
     synonyms:
       - "Eizouken ni wa Te wo Dasu na!"
     seasons:
       - season: 1
         anilist-id: 109298
+
   - title: "Eiga Koe no Katachi"
     synonyms:
       - "Koe no Katachi"
     seasons:
       - season: 1
         anilist-id: 20954
+
   - title: "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth - Dungeon ni Onsen o Motomeru no wa Machigatte Iru Darouka"
     synonyms:
       - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Dungeon ni Onsen wo Motomeru no wa Machigatteiru Darou ka"
     seasons:
       - season: 1
         anilist-id: 21660
+
   - title: "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden: Sword Oratoria"
     synonyms:
       - "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria"
     seasons:
       - season: 1
         anilist-id: 21676
+
   - title: "Boku no Hero Academia (2022)"
     synonyms:
       - "Boku no Hero Academia 6"
     seasons:
       - season: 1
         anilist-id: 139630
+
   - title: "Boku no Hero Academia (2021)"
     synonyms:
       - "Boku no Hero Academia 5"
     seasons:
       - season: 1
         anilist-id: 117193
+
   - title: "Boku no Hero Academia (2019)"
     synonyms:
       - "Boku no Hero Academia 4"
     seasons:
       - season: 1
         anilist-id: 104276
+
   - title: "Boku no Hero Academia (2018)"
     synonyms:
       - "Boku no Hero Academia 3"
     seasons:
       - season: 1
         anilist-id: 100166
+
   - title: "Boku no Hero Academia (2017)"
     synonyms:
       - "Boku no Hero Academia 2"
     seasons:
       - season: 1
         anilist-id: 21856
+
   - title: "Black Clover (2017)"
     synonyms:
       - "Black Clover"
     seasons:
       - season: 1
         anilist-id: 97940
+
   - title: "Ansatsu Kyoushitsu (2016)"
     synonyms:
       - "Ansatsu Kyoushitsu 2"
     seasons:
       - season: 1
         anilist-id: 21170
+
   - title: "Ansatsu Kyoushitsu (2015)"
     synonyms:
       - "Ansatsu Kyoushitsu"
     seasons:
       - season: 1
         anilist-id: 20755
+
   - title: "Kaguya-sama wa Kokurasetai? Tensai-tachi no Ren'ai Zunousen"
     synonyms:
       - "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
     seasons:
       - season: 1
         anilist-id: 101921
+
   - title: "Gintama. (2018)"
     synonyms:
       - "Gintama."
     seasons:
       - season: 1
         anilist-id: 97889
+
   - title: "Saezuru Tori wa Habatakanai"
     synonyms:
       - "Saezuru Tori wa Habatakanai: The clouds gather"
@@ -257,102 +301,119 @@ entries:
        start: 2
 # Mappings for my historical/old Plex library entries END
 # Spring 2022 Season START
+
   - title: "Spy x Family"
     synonyms:
       - "SPY×FAMILY"
     seasons:
      - season: 1
        anilist-id: 140960
+
   - title: "Komi-san wa, Komyushou Desu. (2022)"
     synonyms:
       - "Komi-san wa, Komyushou desu. 2nd Season"
     seasons:
      - season: 1
        anilist-id: 142984
+
   - title: "Eiga Go-Toubun no Hanayome"
     synonyms:
       - "5-Toubun no Hanayome Movie"
     seasons:
      - season: 1
        anilist-id: 131520
+
   - title: "Rikei ga Koi ni Ochita no de Shoumei Shite Mita. Heart"
     synonyms:
       - "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
     seasons:
      - season: 1
        anilist-id: 125124
+
   - title: "Gekijouban Isekai Quartet: Another World"
     synonyms:
       - "Isekai Quartet: Another World"
     seasons:
      - season: 1
        anilist-id: 117074
+
   - title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen (2022)"
     synonyms:
       - "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season"
     seasons:
      - season: 1
        anilist-id: 121176
+
   - title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu"
     synonyms:
       - "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
     seasons:
      - season: 1
        anilist-id: 132474
+
   - title: "Eiga Odd Taxi: In the Woods"
     synonyms:
       - "Odd Taxi: In the Woods"
     seasons:
      - season: 1
        anilist-id: 143080
+
   - title: "Machikado Mazoku 2-Choume"
     synonyms:
       - "Machikado Mazoku: 2-Choume"
     seasons:
      - season: 1
        anilist-id: 123330
+
   - title: "Ao Ashi"
     synonyms:
       - "Aoashi"
     seasons:
      - season: 1
        anilist-id: 134732
+
   - title: "Mahou Tsukai Reimeiki"
     synonyms:
       - "Mahoutsukai Reimeiki"
     seasons:
      - season: 1
        anilist-id: 133175
+
   - title: "Gekijouban Karakai Jouzu no Takagi-san"
     synonyms:
       - "Karakai Jouzu no Takagi-san Movie"
     seasons:
      - season: 1
        anilist-id: 138425
+
   - title: "Yuukoku no Moriarty (2022)"
     synonyms:
       - "Yuukoku no Moriarty OVA"
     seasons:
      - season: 1
        anilist-id: 138700
+
   - title: "Love Live! Nijigasaki Gakuen School Idol Doukoukai (2022)"
     synonyms:
       - "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2"
     seasons:
      - season: 1
        anilist-id: 133891
+
   - title: "Heroine Taru Mono! Kiraware Heroine to Naisho no Oshigoto"
     synonyms:
       - "Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto"
     seasons:
      - season: 1
        anilist-id: 138459
+
   - title: "Black Rock Shooter: Dawn Fall"
     synonyms:
       - "Black★★Rock Shooter: DAWN FALL"
     seasons:
      - season: 1
        anilist-id: 139303
+
   - title: "Gekijouban Free! The Final Stroke"
     synonyms:
       - "Free!: the Final Stroke - Zenpen"
@@ -363,84 +424,98 @@ entries:
      - season: 1
        anilist-id: 133124
        start: 2
+
   - title: "Magia Record: Mahou Shoujo Madoka Magica Gaiden Final Season - Asaki Yume no Akatsuki"
     synonyms:
       - "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden Final SEASON - Asaki Yume no Akatsuki"
     seasons:
      - season: 1
        anilist-id: 136080
+
   - title: "Gekijouban Re:cycle of the Penguindrum"
     synonyms:
       - "RE:cycle of the PENGUINDRUM Zenpen: Kimi no Ressha wa Seizon Senryaku"
     seasons:
      - season: 1
        anilist-id: 132232
+
   - title: "Birdie Wing: Golf Girls` Story"
     synonyms:
       - "BIRDIE WING: Golf Girls' Story"
     seasons:
      - season: 1
        anilist-id: 140830
+
   - title: "Kingdom (2022)"
     synonyms:
       - "Kingdom 4"
     seasons:
      - season: 1
        anilist-id: 140350
+
   - title: "Koukaku Kidoutai: SAC_2045 (2022)"
     synonyms:
       - "Koukaku Kidoutai: SAC_2045 Season 2"
     seasons:
      - season: 1
        anilist-id: 117756
+
   - title: "Estab Life: Great Escape"
     synonyms:
       - "Estab-Life: Great Escape"
     seasons:
      - season: 1
        anilist-id: 143289
+
   - title: "Kyoukai Senki (2022)"
     synonyms:
       - "Kyoukai Senki Part 2"
     seasons:
      - season: 1
        anilist-id: 143203
+
   - title: "Kaginado (2022)"
     synonyms:
       - "Kaginado Season 2"
     seasons:
      - season: 1
        anilist-id: 143150
+
   - title: "Yuu Gi Ou: Go Rush!!"
     synonyms:
       - "Yu☆Gi☆Oh! Go Rush!!"
     seasons:
      - season: 1
        anilist-id: 142842
+
   - title: "Eiga Doraemon: Nobita no Little Star Wars 2021"
     synonyms:
       - "Doraemon: Nobita no Little Star Wars 2021"
     seasons:
      - season: 1
        anilist-id: 126783
+
   - title: "Tongari Atama no Gonta: Futatsu no Namae o Ikita Fukushima Hisai Inu no Monogatari"
     synonyms:
       - "Tongari Atama no Gonta: Futatsu no Namae wo Ikita Fukushima Hisai Inu no Monogatari"
     seasons:
      - season: 1
        anilist-id: 130705
+
   - title: "Eiga Crayon Shin-chan: Mononoke Ninja Chinfuuden"
     synonyms:
       - "Crayon Shin-chan: Mononoke Ninja Chinfuuden"
     seasons:
      - season: 1
        anilist-id: 142549
+
   - title: "Motto! Majime ni Fumajime Kaiketsu Zorori (2022)"
     synonyms:
       - "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season"
     seasons:
      - season: 1
        anilist-id: 140787
+
   - title: "Oshiri Tantei (2022)"
     synonyms:
       - "Oshiri Tantei: SHIRIARTY"
