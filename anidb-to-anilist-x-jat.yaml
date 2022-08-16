@@ -523,3 +523,11 @@ entries:
      - season: 1
        anilist-id: 142806
 # Spring 2022 Season END
+# Summer 2022 Season START
+  - title: "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
+    synonyms:
+      - "Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita"
+    seasons:
+     - season: 1
+       anilist-id: 129192
+# Summer 2022 Season END
